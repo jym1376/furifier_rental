@@ -1,0 +1,1 @@
+# furifier_rental
